@@ -6,7 +6,7 @@ To accomplish this, I developed a fully functional, browser-based **To-Do List A
 
 My primary purpose in writing this software was to bridge the gap between theoretical JavaScript concepts (such as asynchronous callbacks, higher-order array functions, and dynamic element creation) and a tangible, user-facing web utility. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Mm4Oz1zGdXA)
 
 # Development Environment
 
